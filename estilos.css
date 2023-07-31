@@ -1,0 +1,16 @@
+body{
+    color: red;
+    text-align: center;
+    font-family: Arial;
+}
+#master{
+text-decoration: aqua;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#rama{
+    margin: 20;
+    color: blue;
+    text-decoration-color: blue;
+
+}
